@@ -18,10 +18,22 @@
     "from": "geographer"
   },
   {
+    "package": "geotools",
+    "url": "https://github.com/Nenuial/geotools",
+    "via": ["geovizr", "ggeo"],
+    "from": "geovizr"
+  },
+  {
     "package": "ggeo",
     "url": "https://github.com/Nenuial/ggeo",
     "via": ["geographer"],
     "from": "geographer"
+  },
+  {
+    "package": "ggeo",
+    "url": "https://github.com/Nenuial/ggeo",
+    "via": ["geovizr"],
+    "from": "geovizr"
   },
   {
     "package": "ochRe",
@@ -52,5 +64,17 @@
     "url": "https://github.com/politanch/swissdd",
     "via": ["geographer"],
     "from": "geographer"
+  },
+  {
+    "package": "tweetrmd",
+    "url": "https://github.com/gadenbuie/tweetrmd",
+    "via": ["geovizr"],
+    "from": "geovizr"
+  },
+  {
+    "package": "webshot2",
+    "url": "https://github.com/rstudio/webshot2",
+    "via": ["geovizr", "tweetrmd"],
+    "from": "geovizr"
   }
 ]

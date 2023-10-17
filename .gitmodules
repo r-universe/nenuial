@@ -37,3 +37,11 @@
 	path = swissdd
 	url = https://github.com/politanch/swissdd
 	registered = false
+[submodule "tweetrmd"]
+	path = tweetrmd
+	url = https://github.com/gadenbuie/tweetrmd
+	registered = false
+[submodule "webshot2"]
+	path = webshot2
+	url = https://github.com/rstudio/webshot2
+	registered = false
