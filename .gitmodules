@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/nenuial/nenuial.r-universe.dev
 	branch = HEAD
+[submodule "IslamicArt"]
+	path = IslamicArt
+	url = https://github.com/lambdamoses/IslamicArt
+	registered = false
 [submodule "geodata"]
 	path = geodata
 	url = https://github.com/Nenuial/geodata
@@ -17,3 +21,19 @@
 [submodule "ggeo"]
 	path = ggeo
 	url = https://github.com/Nenuial/ggeo
+[submodule "ochRe"]
+	path = ochRe
+	url = https://github.com/hollylkirk/ochRe
+	registered = false
+[submodule "owidR"]
+	path = owidR
+	url = https://github.com/piersyork/owidR
+	registered = false
+[submodule "rrricanes"]
+	path = rrricanes
+	url = https://github.com/ropensci/rrricanes
+	registered = false
+[submodule "swissdd"]
+	path = swissdd
+	url = https://github.com/politanch/swissdd
+	registered = false
