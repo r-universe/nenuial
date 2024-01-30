@@ -32,6 +32,12 @@
   {
     "package": "owidR",
     "url": "https://github.com/piersyork/owidR",
+    "via": ["geodata"],
+    "from": "geodata"
+  },
+  {
+    "package": "owidR",
+    "url": "https://github.com/piersyork/owidR",
     "via": ["geographer", "geodata"],
     "from": "geographer"
   },
