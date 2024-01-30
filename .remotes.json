@@ -24,6 +24,12 @@
     "from": "geovizr"
   },
   {
+    "package": "geotools",
+    "url": "https://github.com/Nenuial/geotools",
+    "via": ["ggeo"],
+    "from": "ggeo"
+  },
+  {
     "package": "ggeo",
     "url": "https://github.com/Nenuial/ggeo",
     "via": ["geographer"],
