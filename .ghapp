@@ -1,0 +1,10 @@
+{
+  "id": 49451250,
+  "created_at": "2024-04-10T06:47:23.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["geographer", "ggeo", "rsvps", "swisszipr", "themakart", "geodata", "GeoApp", "rnotion", "fnchSpeaker", "geovizir"]
+}
