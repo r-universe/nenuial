@@ -1,4 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nenuial/nenuial.r-universe.dev
 	branch = HEAD
+[submodule "geodata"]
+	path = geodata
+	url = https://github.com/Nenuial/geodata
+[submodule "geographer"]
+	path = geographer
+	url = https://github.com/Nenuial/geographer
+[submodule "geotools"]
+	path = geotools
+	url = https://github.com/Nenuial/geotools
+[submodule "geovizir"]
+	path = geovizir
+	url = https://github.com/Nenuial/geovizir
+[submodule "ggeo"]
+	path = ggeo
+	url = https://github.com/Nenuial/ggeo
