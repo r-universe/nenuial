@@ -11,9 +11,9 @@
 [submodule "geotools"]
 	path = geotools
 	url = https://github.com/Nenuial/geotools
-[submodule "geovizir"]
-	path = geovizir
-	url = https://github.com/Nenuial/geovizir
+[submodule "geovizr"]
+	path = geovizr
+	url = https://github.com/Nenuial/geovizr
 [submodule "ggeo"]
 	path = ggeo
 	url = https://github.com/Nenuial/ggeo
