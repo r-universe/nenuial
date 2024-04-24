@@ -37,6 +37,9 @@
 	path = swissdd
 	url = https://github.com/politanch/swissdd
 	registered = false
+[submodule "themakart"]
+	path = themakart
+	url = https://github.com/Nenuial/themakart
 [submodule "tweetrmd"]
 	path = tweetrmd
 	url = https://github.com/gadenbuie/tweetrmd
