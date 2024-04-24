@@ -72,6 +72,12 @@
     "from": "geographer"
   },
   {
+    "package": "themakart",
+    "url": "https://github.com/Nenuial/themakart",
+    "via": ["geographer"],
+    "from": "geographer"
+  },
+  {
     "package": "tweetrmd",
     "url": "https://github.com/gadenbuie/tweetrmd",
     "via": ["geovizr"],
