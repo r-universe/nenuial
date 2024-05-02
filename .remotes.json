@@ -12,6 +12,12 @@
     "from": "geographer"
   },
   {
+    "package": "geodata",
+    "url": "https://github.com/Nenuial/geodata",
+    "via": ["geovizr"],
+    "from": "geovizr"
+  },
+  {
     "package": "geotools",
     "url": "https://github.com/Nenuial/geotools",
     "via": ["geodata"],
@@ -66,6 +72,18 @@
     "from": "geographer"
   },
   {
+    "package": "owidR",
+    "url": "https://github.com/piersyork/owidR",
+    "via": ["geovizr", "geodata"],
+    "from": "geovizr"
+  },
+  {
+    "package": "rnotion",
+    "url": "https://github.com/Nenuial/rnotion",
+    "via": ["geovizr"],
+    "from": "geovizr"
+  },
+  {
     "package": "rrricanes",
     "url": "https://github.com/ropensci/rrricanes",
     "via": ["geographer"],
@@ -82,17 +100,5 @@
     "url": "https://github.com/Nenuial/themakart",
     "via": ["geographer"],
     "from": "geographer"
-  },
-  {
-    "package": "tweetrmd",
-    "url": "https://github.com/gadenbuie/tweetrmd",
-    "via": ["geovizr"],
-    "from": "geovizr"
-  },
-  {
-    "package": "webshot2",
-    "url": "https://github.com/rstudio/webshot2",
-    "via": ["geovizr", "tweetrmd"],
-    "from": "geovizr"
   }
 ]

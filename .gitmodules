@@ -29,6 +29,10 @@
 	path = owidR
 	url = https://github.com/piersyork/owidR
 	registered = false
+[submodule "rnotion"]
+	path = rnotion
+	url = https://github.com/Nenuial/rnotion
+	registered = false
 [submodule "rrricanes"]
 	path = rrricanes
 	url = https://github.com/ropensci/rrricanes
@@ -40,11 +44,3 @@
 [submodule "themakart"]
 	path = themakart
 	url = https://github.com/Nenuial/themakart
-[submodule "tweetrmd"]
-	path = tweetrmd
-	url = https://github.com/gadenbuie/tweetrmd
-	registered = false
-[submodule "webshot2"]
-	path = webshot2
-	url = https://github.com/rstudio/webshot2
-	registered = false
