@@ -92,6 +92,12 @@
   {
     "package": "rnoaa",
     "url": "https://github.com/ropensci/rnoaa",
+    "via": ["geodata"],
+    "from": "geodata"
+  },
+  {
+    "package": "rnoaa",
+    "url": "https://github.com/ropensci/rnoaa",
     "via": ["geographer", "geodata"],
     "from": "geographer"
   },
