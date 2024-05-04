@@ -102,6 +102,12 @@
     "from": "geographer"
   },
   {
+    "package": "rnoaa",
+    "url": "https://github.com/ropensci/rnoaa",
+    "via": ["geovizr", "geodata"],
+    "from": "geovizr"
+  },
+  {
     "package": "rnotion",
     "url": "https://github.com/Nenuial/rnotion",
     "via": ["geovizr"],
