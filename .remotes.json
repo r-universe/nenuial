@@ -26,7 +26,7 @@
   {
     "package": "geotools",
     "url": "https://github.com/Nenuial/geotools",
-    "via": ["geographer", "ggeo"],
+    "via": ["geographer", "geodata"],
     "from": "geographer"
   },
   {
@@ -54,6 +54,12 @@
     "from": "geovizr"
   },
   {
+    "package": "highcharter",
+    "url": "https://github.com/jbkunst/highcharter",
+    "via": ["geographer"],
+    "from": "geographer"
+  },
+  {
     "package": "ochRe",
     "url": "https://github.com/hollylkirk/ochRe",
     "via": ["geographer"],
@@ -76,6 +82,18 @@
     "url": "https://github.com/piersyork/owidR",
     "via": ["geovizr", "geodata"],
     "from": "geovizr"
+  },
+  {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["geographer"],
+    "from": "geographer"
+  },
+  {
+    "package": "rnoaa",
+    "url": "https://github.com/ropensci/rnoaa",
+    "via": ["geographer", "geodata"],
+    "from": "geographer"
   },
   {
     "package": "rnotion",

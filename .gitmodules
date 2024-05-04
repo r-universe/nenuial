@@ -21,6 +21,10 @@
 [submodule "ggeo"]
 	path = ggeo
 	url = https://github.com/Nenuial/ggeo
+[submodule "highcharter"]
+	path = highcharter
+	url = https://github.com/jbkunst/highcharter
+	registered = false
 [submodule "ochRe"]
 	path = ochRe
 	url = https://github.com/hollylkirk/ochRe
@@ -28,6 +32,14 @@
 [submodule "owidR"]
 	path = owidR
 	url = https://github.com/piersyork/owidR
+	registered = false
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	registered = false
+[submodule "rnoaa"]
+	path = rnoaa
+	url = https://github.com/ropensci/rnoaa
 	registered = false
 [submodule "rnotion"]
 	path = rnotion
