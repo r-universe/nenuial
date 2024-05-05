@@ -56,3 +56,8 @@
 [submodule "themakart"]
 	path = themakart
 	url = https://github.com/Nenuial/themakart
+[submodule "tmap"]
+	path = tmap
+	url = https://github.com/r-tmap/tmap
+	branch = v4
+	registered = false

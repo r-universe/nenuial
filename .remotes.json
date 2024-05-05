@@ -130,5 +130,12 @@
     "url": "https://github.com/Nenuial/themakart",
     "via": ["geographer"],
     "from": "geographer"
+  },
+  {
+    "package": "tmap",
+    "url": "https://github.com/r-tmap/tmap",
+    "via": ["geographer"],
+    "branch": "v4",
+    "from": "geographer"
   }
 ]
