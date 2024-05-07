@@ -12,6 +12,9 @@
 [submodule "geographer"]
 	path = geographer
 	url = https://github.com/Nenuial/geographer
+[submodule "geopkg"]
+	path = geopkg
+	url = https://github.com/Nenuial/geopkg
 [submodule "geotools"]
 	path = geotools
 	url = https://github.com/Nenuial/geotools
