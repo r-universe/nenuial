@@ -32,7 +32,7 @@
   {
     "package": "geotools",
     "url": "https://github.com/Nenuial/geotools",
-    "via": ["geovizr", "ggeo"],
+    "via": ["geovizr", "geodata"],
     "from": "geovizr"
   },
   {
