@@ -44,7 +44,7 @@
   {
     "package": "ggeo",
     "url": "https://github.com/Nenuial/ggeo",
-    "via": ["geographer"],
+    "via": ["geographer", "geodata"],
     "from": "geographer"
   },
   {
@@ -135,7 +135,6 @@
     "package": "tmap",
     "url": "https://github.com/r-tmap/tmap",
     "via": ["geographer"],
-    "branch": "v4",
     "from": "geographer"
   }
 ]

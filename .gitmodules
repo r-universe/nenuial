@@ -62,5 +62,4 @@
 [submodule "tmap"]
 	path = tmap
 	url = https://github.com/r-tmap/tmap
-	branch = v4
 	registered = false
