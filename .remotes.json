@@ -44,6 +44,12 @@
   {
     "package": "ggeo",
     "url": "https://github.com/Nenuial/ggeo",
+    "via": ["geodata"],
+    "from": "geodata"
+  },
+  {
+    "package": "ggeo",
+    "url": "https://github.com/Nenuial/ggeo",
     "via": ["geographer", "geodata"],
     "from": "geographer"
   },
