@@ -142,5 +142,11 @@
     "url": "https://github.com/r-tmap/tmap",
     "via": ["geographer"],
     "from": "geographer"
+  },
+  {
+    "package": "wbstats",
+    "url": "https://github.com/nset-ornl/wbstats",
+    "via": ["geotools"],
+    "from": "geotools"
   }
 ]

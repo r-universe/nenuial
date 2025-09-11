@@ -63,3 +63,7 @@
 	path = tmap
 	url = https://github.com/r-tmap/tmap
 	registered = false
+[submodule "wbstats"]
+	path = wbstats
+	url = https://github.com/nset-ornl/wbstats
+	registered = false
